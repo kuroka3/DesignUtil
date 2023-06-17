@@ -1,0 +1,9 @@
+name: DesignUtil
+version: '${version}'
+main: io.github.kuroka3.designutil.DesignUtil
+api-version: '1.20'
+
+commands:
+  designutil:
+    description: null
+    usage: null
