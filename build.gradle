@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'io.github.kuroka3'
-version = '0.0.1'
+version = '1.0'
 
 repositories {
     mavenCentral()
